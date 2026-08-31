@@ -61,7 +61,7 @@ Ensure that the required development environment and dependencies are installed 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Lervez5/Gis_backend.git
 ```
 
 Navigate to the project directory:
