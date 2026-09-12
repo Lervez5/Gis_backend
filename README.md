@@ -13,6 +13,7 @@ The platform provides a foundation for applications that need to work with:
 * Spatial relationships
 * Geographic boundaries and regions
 * Distance and proximity calculations
+* Location-based search
 * Spatial queries and analytics
 * Mapping and location-service integrations
 
